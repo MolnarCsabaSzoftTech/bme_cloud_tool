@@ -13,4 +13,4 @@ dependencies = [
 ]
 
 [project.scripts]
-bme = "main:app"
+bme-cloud = "main:app"
